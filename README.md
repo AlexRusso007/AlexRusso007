@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Russo</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
-https://miro.medium.com/v2/resize:fit:1069/1*D3YuJKig5UZyQIzDzacQ3g.jpeg
+![coding](https://github.com/user-attachments/assets/6e806fdd-fd4a-41e9-ac4d-f2196f35c0f5)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrusso007&label=Profile%20views&color=0e75b6&style=flat" alt="alexrusso007" /> </p>
