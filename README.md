@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Russo</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
-![coding](https://github.com/user-attachments/assets/6e806fdd-fd4a-41e9-ac4d-f2196f35c0f5)
+
 
 
 
